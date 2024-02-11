@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:news_app_ui_setup/views/home.dart';
-
+//edit 1
 void main() {
   runApp(const NewsApp());
   
