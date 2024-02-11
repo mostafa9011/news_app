@@ -19,6 +19,7 @@ class _PaperListVeiwBuilderState extends State<PaperListVeiwBuilder> {
   //List<ArticleModel>? arteclesList = [];
 
   
+  // ignore: prefer_typing_uninitialized_variables
   var future;
   @override
    initState() {
